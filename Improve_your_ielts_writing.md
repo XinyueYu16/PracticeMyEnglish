@@ -1,4 +1,8 @@
 # linking words
+    - As regards...
+    - By contrast, 
+    - Likewise,
+    - my opinion notwithstanding,
 
 
 # Variety of Structures
@@ -21,12 +25,19 @@
     - 
 ## Topics
 1. Trend
-    - upward:
-    - downward:
-    - levelled off:
+    - upward: 
+        - n. rise, increase, growth, go up, rocket, double
+        - v. climb, soar, 
+        - comb. (experience) an upward trend,
+    - downward: 
+        - n. 
+        - v. drop, fall, decline, 
+        - comb. an downward trend, ending the year(period) up
+    - level off: stagnated, invariably, reached its plateau/plateau(vi.) during 1900s
+    - fluctuate:
 
-    - fast:
-    - slow:
+    - fast: noticeable, remarkable, significant, sudden
+    - slow: steady
 
 # Task 2
 ## Organizing Words
