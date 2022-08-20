@@ -3,6 +3,10 @@
     - By contrast, 
     - Likewise,
     - my opinion notwithstanding,
+    - In xxx sphere/area/scope,
+    - From my perspective/
+    - in respect of(with respect to)/as regards/ with reference to
+    - at the outset/from the beginning
 
 
 # Variety of Structures
@@ -26,12 +30,12 @@
 ## Topics
 1. Trend
     - upward: 
-        - n. rise, increase, growth, go up, rocket, double
-        - v. climb, soar, 
+        - n. rise, increase, growth, go up, rocket, double, scale up
+        - v. climb, soar, burgeon, proliferate
         - comb. (experience) an upward trend,
     - downward: 
         - n. 
-        - v. drop, fall, decline, 
+        - v. drop, fall, decline, plummet, plunge, dive
         - comb. an downward trend, ending the year(period) up
     - level off: stagnated, invariably, reached its plateau/plateau(vi.) during 1900s
     - fluctuate:
@@ -49,7 +53,7 @@
 ### results
     - by doing this
     - consequently
-    - as a result
+    - as a result/an outcome
     - therefore
 ### solutions/measures(how)
     - one possibility is to
